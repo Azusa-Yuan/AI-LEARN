@@ -1,0 +1,16 @@
+.idea/
+.vscode
+*.db
+*.txt
+*.mp4
+*.log
+__debug*
+*.copy
+binds.json
+critical
+checkpoint*
+tmp.json
+data/*
+*.gz
+*.out
+__pycache__
